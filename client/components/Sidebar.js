@@ -45,6 +45,7 @@ const Sidebar = () => {
                 <div>Lists</div>
                 <div>Profile</div>
                 <div>More</div>
+                <div className={style.tweetButton}>Mint</div>
             </div>
 
         </div>

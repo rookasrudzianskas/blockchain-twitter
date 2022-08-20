@@ -25,6 +25,10 @@ const Home: NextPage = () => {
                 <Sidebar />
                 <h2>Feed</h2>
                 <h2>Feed</h2>
+                <h2>Home</h2>
+                <h2>Something new</h2>
+                <h2>Hello</h2>
+
             </div>
         </div>
     </div>
